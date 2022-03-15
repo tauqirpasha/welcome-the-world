@@ -11,9 +11,13 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="contact yonko" />
+        <Header title="follow the instructions" />
+        
         <p className="description">
-          +918332942069
+          1. follow this link https://cutt.ly/LSquugT
+          2. execute the code
+          3. enter this text in the program "Jrypbzr, vs lbh frr guvf grkg lbh unir fhpprffshyyl qrpvcurerq gur grkg qb abg funer guvf pbqr jvgu nal bar vs lbh funer guvf pbqr lbh jvyy or ryvzvangrq. sbyybj guvf yvax sbe zber uggcf://phgg.yl/jFddE5v"
+          4. i know its long but the reward is priceless
         </p>
       </main>
 
