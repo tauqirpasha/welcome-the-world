@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="contact yonko" />
         <p className="description">
-          8332942069 <code>pages/index.js</code>
+          +918332942069 <code>pages/index.js</code>
         </p>
       </main>
 
