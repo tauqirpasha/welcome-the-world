@@ -15,7 +15,7 @@ export default function Home() {
         
         <p className="description">
           1. follow this link https://cutt.ly/LSquugT 
-    <p>
+    </p>
 </br>
           2. execute the code
    <p className="description">
