@@ -16,13 +16,13 @@ export default function Home() {
         <p className="description">
           1. follow this link https://cutt.ly/LSquugT 
         </p>
-        </br>
+        <br/>
           2. execute the code
        <p className="description">
-        </br>
+        <br/>
           3. enter this text in the program "Jrypbzr, vs lbh frr guvf grkg lbh unir fhpprffshyyl qrpvcurerq gur grkg qb abg funer guvf pbqr jvgu nal bar vs lbh funer guvf pbqr lbh jvyy or ryvzvangrq.Abj pbagnpg Lbaxb 833-29-420-69."
          </p>
-       </br>
+       <br/>
     <p className="description">
     4. i know its long but the reward is priceless 
         
