@@ -19,7 +19,7 @@ export default function Home() {
           2. execute the code
   
     </br>
-          3. enter this text in the program "Jrypbzr, vs lbh frr guvf grkg lbh unir fhpprffshyyl qrpvcurerq gur grkg qb abg funer guvf pbqr jvgu nal bar vs lbh funer guvf pbqr lbh jvyy or ryvzvangrq.Abj pbagnpg Lbaxb 833-29-420-69"
+          3. enter this text in the program "Jrypbzr, vs lbh frr guvf grkg lbh unir fhpprffshyyl qrpvcurerq gur grkg qb abg funer guvf pbqr jvgu nal bar vs lbh funer guvf pbqr lbh jvyy or ryvzvangrq.Abj pbagnpg Lbaxb 833-29-420-69."
    </br>
 
     4. i know its long but the reward is priceless 
